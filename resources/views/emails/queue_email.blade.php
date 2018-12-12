@@ -1,0 +1,1 @@
+<h2>Email sended as queue</h2>
